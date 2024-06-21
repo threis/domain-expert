@@ -1,4 +1,5 @@
-#Entities
+# Entities
+
     - Product
         - id
         - sku
@@ -49,7 +50,8 @@
         - phone
         - email
     
-#Use Cases
+# Use Cases
+
     - create product
     - update product
     - get product
