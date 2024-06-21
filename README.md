@@ -1,4 +1,6 @@
-# Entities
+# Domain Expert
+
+### Entities
 
     - Product
         - id
@@ -50,7 +52,7 @@
         - phone
         - email
     
-# Use Cases
+### Use Cases
 
     - create product
     - update product
